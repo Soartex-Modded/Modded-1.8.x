@@ -220,8 +220,6 @@ stalactite_small.png
 stalagmite_medium.png
 stalagmite_small.png
 stalagmite_top.png
-tall_cattail_lower.png
-tall_cattail_upper.png
 tree_moss.png
 umbran_log.png
 umbran_log_top.png

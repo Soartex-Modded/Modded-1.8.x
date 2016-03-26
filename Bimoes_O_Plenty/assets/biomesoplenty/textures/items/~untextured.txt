@@ -87,7 +87,6 @@ plain_flower_band.png
 poisondart.png
 rafflesia.png
 record_corruption.png
-record_wanderer.png
 redwood_boat.png
 reed.png
 ricebowl.png
