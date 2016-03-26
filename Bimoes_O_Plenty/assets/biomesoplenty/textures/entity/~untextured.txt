@@ -1,0 +1,28 @@
+lost_soul.png
+pixie.png
+snail.png
+wasp.png
+
+>> sub_dirs:
+> boats
+boat_cherry.png
+boat_ebony.png
+boat_ethereal.png
+boat_eucalyptus.png
+boat_fir.png
+boat_hellbark.png
+boat_jacaranda.png
+boat_magic.png
+boat_mahogany.png
+boat_mangrove.png
+boat_palm.png
+boat_pine.png
+boat_redwood.png
+boat_sacred_oak.png
+boat_umbran.png
+boat_willow.png
+
+> butterfly
+blue.png
+orange.png
+purple.png

@@ -1,0 +1,8 @@
+dull_flower_band_layer_1.png
+exotic_flower_band_layer_1.png
+flippers_layer_1.png
+lush_flower_band_layer_1.png
+mud_armor_layer_1.png
+mud_armor_layer_2.png
+plain_flower_band_layer_1.png
+wading_boots_layer_1.png
