@@ -12,6 +12,7 @@ with scripts and made available in the patcher and on the downloads page!
 [![Issue Stats](http://issuestats.com/github/soartex-modded/modded-1.8.x/badge/pr?style=flat)](http://issuestats.com/github/soartex-modded/modded-1.8.x)
 [![Issue Stats](http://issuestats.com/github/soartex-modded/modded-1.8.x/badge/issue?style=flat)](http://issuestats.com/github/soartex-modded/modded-1.8.x)
 
+
 ### Goals
 * Relaxed, fun, community learning and texturing environment
 * Support for mod packs in the FTB, Technic and ATLauncher platforms
