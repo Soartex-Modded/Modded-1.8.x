@@ -1,0 +1,6 @@
+bird.png
+glob.png
+junglespider.png
+pixie.png
+rosester.png
+wasp.png
