@@ -1,0 +1,9 @@
+{
+  "mod_id": "basemetals",
+  "mod_name": "Base Metals",
+  "mod_dir": "/Base_Metals/",
+  "mod_version": "v1.8.0",
+  "mc_version": "1.8.9",
+  "url_website": "https://github.com/cyanobacterium/BaseMetals",
+  "description": "Minecraft mod to add metals like copper and silver to Minecraft"
+}
