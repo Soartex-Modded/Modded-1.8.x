@@ -1,0 +1,9 @@
+{
+  "mod_id": "storagenetwork",
+  "mod_name": "Storage Network",
+  "mod_dir": "/Storage_Network/",
+  "mod_version": "v1.11.1-final",
+  "mc_version": "1.8.9",
+  "url_website": "https://minecraft.curseforge.com/projects/storage-network",
+  "description": "This mod adds cables to connect you inventories"
+}
