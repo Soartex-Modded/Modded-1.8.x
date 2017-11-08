@@ -1,0 +1,9 @@
+{
+  "mod_id": "quantumstorage",
+  "mod_name": "Quantum Storage",
+  "mod_dir": "/Quantum_Storage/",
+  "mod_version": "v2.0.3",
+  "mc_version": "1.8.9",
+  "url_website": "https://mods.curse.com/mc-mods/minecraft/235121-quantumstorage",
+  "description": "A small mod that adds a container to hold nearly unlimited of one type of item"
+}
