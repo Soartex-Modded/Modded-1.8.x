@@ -1,0 +1,9 @@
+{
+  "mod_id": "buildcraft",
+  "mod_name": "Buildcraft",
+  "mod_dir": "/Buildcraft/",
+  "mod_version": "v7.2.7",
+  "mc_version": "1.8.9",
+  "url_website": "http://www.mod-buildcraft.com/",
+  "description": "A very big mod that allows for automation in Minecraft"
+}
