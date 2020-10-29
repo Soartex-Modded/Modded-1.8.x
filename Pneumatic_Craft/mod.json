@@ -1,9 +1,9 @@
 {
-  "mod_id": "pneumaticcraft",
-  "mod_name": "Pneumatic Craft",
-  "mod_dir": "/Pneumatic_Craft/",
-  "mod_version": "v1.13.8-12",
-  "mc_version": "1.8.9",
-  "url_website": "http://www.minemaarten.com/downloads/",
-  "description": "A technical mod all about pneumatics"
+    "mod_id": "pneumaticcraft",
+    "mod_name": "Pneumatic Craft",
+    "mod_dir": "/Pneumatic_Craft/",
+    "mod_version": "v1.13.8-12",
+    "mc_version": "1.8.9",
+    "url_website": "http://www.minemaarten.com/downloads/",
+    "description": "A technical mod all about pneumatics"
 }

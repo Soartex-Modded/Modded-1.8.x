@@ -1,9 +1,9 @@
 {
-  "mod_id": "BiomesOPlenty",
-  "mod_name": "Biomes O\u0027 Plenty",
-  "mod_dir": "/Biomes_O_Plenty/",
-  "mod_version": "2.1.0",
-  "mc_version": "1.9",
-  "url_website": "www.minecraftforum.net/topic/1495041-",
-  "description": "Adds over 75 new biomes, blocks, and more!"
+    "mod_id": "biomesoplenty",
+    "mod_name": "Biomes O' Plenty",
+    "mod_dir": "/Biomes_O_Plenty/",
+    "mod_version": "2.1.0",
+    "mc_version": "1.9",
+    "url_website": "www.minecraftforum.net/topic/1495041-",
+    "description": "Adds over 75 new biomes, blocks, and more!"
 }

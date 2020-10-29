@@ -1,9 +1,9 @@
 {
-  "mod_id": "evilcraft",
-  "mod_name": "Evil Craft",
-  "mod_dir": "/Evil_Craft/",
-  "mod_version": "v0.9.8",
-  "mc_version": "1.8.9",
-  "url_website": "https://github.com/rubensworks/EvilCraft",
-  "description": "An evil mod for Minecraft"
+    "mod_id": "evilcraft",
+    "mod_name": "Evil Craft",
+    "mod_dir": "/Evil_Craft/",
+    "mod_version": "v0.9.8",
+    "mc_version": "1.8.9",
+    "url_website": "https://github.com/rubensworks/EvilCraft",
+    "description": "An evil mod for Minecraft"
 }

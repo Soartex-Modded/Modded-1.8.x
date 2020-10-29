@@ -1,9 +1,9 @@
 {
-  "mod_id": "randomthings",
-  "mod_name": "Random Things",
-  "mod_dir": "/Random_Things/",
-  "mod_version": "v3.6.6",
-  "mc_version": "1.8.9",
-  "url_website": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1289551-random-things-3-6-4",
-  "description": "A compilation of different blocks and items that I needed while playing"
+    "mod_id": "randomthings",
+    "mod_name": "Random Things",
+    "mod_dir": "/Random_Things/",
+    "mod_version": "v3.6.6",
+    "mc_version": "1.8.9",
+    "url_website": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1289551-random-things-3-6-4",
+    "description": "A compilation of different blocks and items that I needed while playing"
 }

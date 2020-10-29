@@ -1,9 +1,9 @@
 {
-  "mod_id": "xreliquary",
-  "mod_name": "Xenos Reliquary",
-  "mod_dir": "/Xenos_Reliquary/",
-  "mod_version": "v1.3.1.296",
-  "mc_version": "1.8.9",
-  "url_website": "https://minecraft.curseforge.com/projects/reliquary-v1-3",
-  "description": "A collection of magical items and blocks that may be challenging to get, but make player lives easier in many different areas"
+    "mod_id": "xreliquary",
+    "mod_name": "Xenos Reliquary",
+    "mod_dir": "/Xenos_Reliquary/",
+    "mod_version": "v1.3.1.296",
+    "mc_version": "1.8.9",
+    "url_website": "https://minecraft.curseforge.com/projects/reliquary-v1-3",
+    "description": "A collection of magical items and blocks that may be challenging to get, but make player lives easier in many different areas"
 }

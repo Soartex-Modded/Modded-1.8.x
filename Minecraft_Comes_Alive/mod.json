@@ -1,9 +1,9 @@
 {
-  "mod_id": "mca",
-  "mod_name": "Minecraft Comes Alive",
-  "mod_dir": "/Minecraft_Comes_Alive/",
-  "mod_version": "v5.1.2",
-  "mc_version": "1.8.9",
-  "url_website": "http://www.radix-shock.com/mca--download.html",
-  "description": "Breathes new life into the game by completely changing the villagers from caveman squidwards into humans"
+    "mod_id": "mca",
+    "mod_name": "Minecraft Comes Alive",
+    "mod_dir": "/Minecraft_Comes_Alive/",
+    "mod_version": "v5.1.2",
+    "mc_version": "1.8.9",
+    "url_website": "http://www.radix-shock.com/mca--download.html",
+    "description": "Breathes new life into the game by completely changing the villagers from caveman squidwards into humans"
 }

@@ -1,9 +1,9 @@
 {
-  "mod_id": "wuppy29_slimedungeon",
-  "mod_name": "Slime Dungeons",
-  "mod_dir": "/Slime_Dungeons/",
-  "mod_version": "v1.8",
-  "mc_version": "1.8.9",
-  "url_website": "http://www.wuppy29.com/minecraft/mods/slime-dungeons/",
-  "description": "Adds slime dungeons to your game"
+    "mod_id": "wuppy29_slimedungeon",
+    "mod_name": "Slime Dungeons",
+    "mod_dir": "/Slime_Dungeons/",
+    "mod_version": "v1.8",
+    "mc_version": "1.8.9",
+    "url_website": "http://www.wuppy29.com/minecraft/mods/slime-dungeons/",
+    "description": "Adds slime dungeons to your game"
 }

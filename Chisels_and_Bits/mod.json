@@ -1,9 +1,9 @@
 {
-  "mod_id": "chiselsandbits",
-  "mod_name": "Chisels and Bits",
-  "mod_dir": "/Chisels_and_Bits/",
-  "mod_version": "v1.82",
-  "mc_version": "1.8.9",
-  "url_website": "http://minecraft.curseforge.com/projects/chisels-bits",
-  "description": "This mod adds tools to enable you to create new custom decorative blocks and designs to decorate your bases"
+    "mod_id": "chiselsandbits",
+    "mod_name": "Chisels and Bits",
+    "mod_dir": "/Chisels_and_Bits/",
+    "mod_version": "v1.82",
+    "mc_version": "1.8.9",
+    "url_website": "http://minecraft.curseforge.com/projects/chisels-bits",
+    "description": "This mod adds tools to enable you to create new custom decorative blocks and designs to decorate your bases"
 }

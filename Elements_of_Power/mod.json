@@ -1,9 +1,9 @@
 {
-  "mod_id": "elementsofpower",
-  "mod_name": "Elements of Power",
-  "mod_dir": "/Elements_of_Power/",
-  "mod_version": "v1.79",
-  "mc_version": "1.8.9",
-  "url_website": "https://github.com/gigaherz/ElementsOfPower",
-  "description": "A Minecraft Forge mod about raw magic"
+    "mod_id": "elementsofpower",
+    "mod_name": "Elements of Power",
+    "mod_dir": "/Elements_of_Power/",
+    "mod_version": "v1.79",
+    "mc_version": "1.8.9",
+    "url_website": "https://github.com/gigaherz/ElementsOfPower",
+    "description": "A Minecraft Forge mod about raw magic"
 }

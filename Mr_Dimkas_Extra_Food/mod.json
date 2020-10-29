@@ -1,9 +1,9 @@
 {
-  "mod_id": "moreexfoodppp",
-  "mod_name": "Mr Dimkas Extra Food",
-  "mod_dir": "/Mr_Dimkas_Extra_Food/",
-  "mod_version": "v1.1.1",
-  "mc_version": "1.8.9",
-  "url_website": "https://github.com/MrDimkasStudio",
-  "description": "Food things, extraly"
+    "mod_id": "moreexfoodppp",
+    "mod_name": "Mr Dimkas Extra Food",
+    "mod_dir": "/Mr_Dimkas_Extra_Food/",
+    "mod_version": "v1.1.1",
+    "mc_version": "1.8.9",
+    "url_website": "https://github.com/MrDimkasStudio",
+    "description": "Food things, extraly"
 }
