@@ -1,0 +1,12 @@
+{
+    "mod_filename": "AppleCore-mc1.8.9-3.1.1.jar",
+    "mod_id": "applecore",
+    "mod_name": "AppleCore",
+    "mc_version": "1.8.9",
+    "mod_authors": [
+        "squeek502"
+    ],
+    "url_website": "https://www.curseforge.com/minecraft/mc-mods/applecore",
+    "description": "An API for modifying the food and hunger mechanics of Minecraft",
+    "mod_dir": "/AppleCore/"
+}

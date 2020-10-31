@@ -1,0 +1,13 @@
+{
+    "mod_id": "immersive-craft",
+    "mod_name": "Immersive Craft",
+    "mod_filename": "immcraft-1.1.2.jar",
+    "mc_version": "1.8.9",
+    "mod_authors": [
+        "McJty"
+    ],
+    "url_website": "",
+    "description": "Add a more immersive way to handle, craft and store objects in Minecraft",
+    "mod_version": "1.1.2",
+    "mod_dir": "/Immersive_Craft/"
+}

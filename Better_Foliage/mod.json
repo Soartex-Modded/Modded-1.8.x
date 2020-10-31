@@ -1,0 +1,13 @@
+{
+    "mod_id": "betterfoliage",
+    "mod_name": "Better Foliage",
+    "mod_filename": "BetterFoliage-MC1.8.x-2.0.15.jar",
+    "mc_version": "1.8.8",
+    "mod_authors": [
+        "octarine_noise"
+    ],
+    "url_website": "https://www.curseforge.com/minecraft/mc-mods/better-foliage",
+    "description": "Makes the vegetation in your world more natural and awesome",
+    "mod_version": "2.0.15",
+    "mod_dir": "/Better_Foliage/"
+}
