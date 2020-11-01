@@ -1,9 +1,14 @@
 {
-  "mod_id": "computercraft",
-  "mod_name": "Computer Craft",
-  "mod_dir": "/Computer_Craft/",
-  "mod_version": "v1.79",
-  "mc_version": "1.8.9",
-  "url_website": "http://www.computercraft.info/",
-  "description": "ComputerCraft is a modification for Minecraft that’s all about computer programming"
+    "mod_id": "computercraft",
+    "mod_name": "Computer Craft",
+    "mod_filename": "ComputerCraft1.75.jar",
+    "mc_version": "1.8.9",
+    "mod_authors": [
+        "Daniel Ratcliffe",
+        "Aaron Mills"
+    ],
+    "url_website": "http://www.computercraft.info",
+    "description": "Computers, Programming and Robotics in Minecraft",
+    "mod_version": "1.79pr1",
+    "mod_dir": "/Computer_Craft/"
 }

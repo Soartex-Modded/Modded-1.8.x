@@ -1,0 +1,14 @@
+{
+    "mod_filename": "Chisel-MC1.12-0.0.14.18.jar",
+    "mod_id": "chisel",
+    "mod_name": "Chisel",
+    "mc_version": "1.8.9",
+    "mod_authors": [
+        "tterrag1098",
+        "Drullkus",
+        "minecreatr"
+    ],
+    "url_website": "https://www.curseforge.com/minecraft/mc-mods/chisel",
+    "description": "A builder's best friend.",
+    "mod_dir": "/Chisel/"
+}

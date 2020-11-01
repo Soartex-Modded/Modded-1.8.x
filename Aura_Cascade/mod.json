@@ -1,9 +1,9 @@
 {
-  "mod_id": "aura",
-  "mod_name": "Aura Cascade",
-  "mod_dir": "/Aura_Cascade/",
-  "mod_version": "v592",
-  "mc_version": "1.8.9",
-  "url_website": "https://mods.curse.com/mc-mods/minecraft/227099-aura-cascade",
-  "description": "A magic mod that challenges the user to think of solutions to complex problems"
+    "mod_id": "aura",
+    "mod_name": "Aura Cascade",
+    "mod_dir": "/Aura_Cascade/",
+    "mod_version": "v592",
+    "mc_version": "1.8.9",
+    "url_website": "https://mods.curse.com/mc-mods/minecraft/227099-aura-cascade",
+    "description": "A magic mod that challenges the user to think of solutions to complex problems"
 }

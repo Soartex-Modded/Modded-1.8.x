@@ -1,0 +1,13 @@
+{
+    "mod_id": "rftools",
+    "mod_name": "RFTools",
+    "mod_filename": "rftools-1.8.9-4.23beta40.jar",
+    "mc_version": "1.8.9",
+    "mod_authors": [
+        "McJty"
+    ],
+    "url_website": "",
+    "description": "RFTools, blocks and items to help with Redflux (dimension builder, crafter, monitor, scanner, ...)",
+    "mod_version": "1.8.9-4.23beta40",
+    "mod_dir": "/RFTools/"
+}

@@ -1,0 +1,13 @@
+{
+    "mod_id": "aroma1997core",
+    "mod_name": "Aroma1997s Core",
+    "mod_filename": "Aroma1997Core-1.8.9-1.0.3.4.b58.jar",
+    "mc_version": "1.8.8",
+    "mod_authors": [
+        "Aroma1997, Schillaa"
+    ],
+    "url_website": "http://www.minecraftforum.net/topic/1679684-",
+    "description": "This is a mod required by most of my other mods, so you should install it, if you want to run any other of my mods.",
+    "mod_version": "1.0.3.4.b58",
+    "mod_dir": "/Aroma1997s_Core/"
+}

@@ -1,9 +1,9 @@
 {
-  "mod_id": "endores",
-  "mod_name": "End Ores",
-  "mod_dir": "/End_Ores/",
-  "mod_version": "v1.0-a010",
-  "mc_version": "1.8.9",
-  "url_website": "http://rowanmods.weebly.com/",
-  "description": "Adds ores to the End and Nether dimension"
+    "mod_id": "endores",
+    "mod_name": "End Ores",
+    "mod_dir": "/End_Ores/",
+    "mod_version": "v1.0-a010",
+    "mc_version": "1.8.9",
+    "url_website": "http://rowanmods.weebly.com/",
+    "description": "Adds ores to the End and Nether dimension"
 }

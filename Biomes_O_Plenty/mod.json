@@ -1,9 +1,14 @@
 {
-  "mod_id": "BiomesOPlenty",
-  "mod_name": "Biomes O\u0027 Plenty",
-  "mod_dir": "/Biomes_O_Plenty/",
-  "mod_version": "2.1.0",
-  "mc_version": "1.9",
-  "url_website": "www.minecraftforum.net/topic/1495041-",
-  "description": "Adds over 75 new biomes, blocks, and more!"
+    "mod_id": "biomesoplenty",
+    "mod_name": "Biomes O' Plenty",
+    "mod_filename": "BiomesOPlenty-1.7.10-2.1.0.1396-universal.jar",
+    "mc_version": "1.8.9",
+    "mod_authors": [
+        "Forstride",
+        "TheAdubbz"
+    ],
+    "url_website": "http://files.minecraftforge.net/maven/com/github/glitchfiend/biomesoplenty/BiomesOPlenty/",
+    "description": "Adds 50+ unique biomes to enhance your world, with new trees, flowers, and more!",
+    "mod_version": "3.0.0",
+    "mod_dir": "/Biomes_O_Plenty/"
 }

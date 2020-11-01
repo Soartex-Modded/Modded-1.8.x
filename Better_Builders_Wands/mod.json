@@ -1,0 +1,13 @@
+{
+    "mod_id": "betterbuilderswands",
+    "mod_name": "Better Builders Wands",
+    "mod_filename": "BetterBuildersWands-0.5.0-1.8.9r80+664f0f6.jar",
+    "mc_version": "1.8.9",
+    "mod_authors": [
+        "Portablejim"
+    ],
+    "url_website": "",
+    "description": "An attempt to make a nicer-to-use builder's wand",
+    "mod_version": "0.5.0",
+    "mod_dir": "/Better_Builders_Wands/"
+}

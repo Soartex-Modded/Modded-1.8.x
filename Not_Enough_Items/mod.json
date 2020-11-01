@@ -1,0 +1,12 @@
+{
+    "mod_filename": "NotEnoughItems-1.8-1.0.5.104-universal.jar",
+    "mod_id": "nei",
+    "mod_name": "Not Enough Items",
+    "mc_version": "1.8",
+    "mod_authors": [
+        "Chicken_Bones"
+    ],
+    "url_website": "https://www.curseforge.com/minecraft/mc-mods/notenoughitems",
+    "description": "Recipe Viewer, Inventory Manager, Item Spawner, Cheats and more",
+    "mod_dir": "/Not_Enough_Items/"
+}

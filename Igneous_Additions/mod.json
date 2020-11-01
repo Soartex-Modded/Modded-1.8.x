@@ -1,10 +1,12 @@
 {
-  "mod_id": "igneousadditions",
-  "mod_name": "Igneous Additions",
-  "mod_dir": "/Igneous_Additions/",
-  "mod_version": "1.2-BETA-2",
-  "mc_version": "1.8",
-  "mod_authors": ["Cruz Bishop"],
-  "url_website": "http://minecraft.curseforge.com/projects/igneous-additions",
-  "description": "Extra use for boring rock."
+    "mod_id": "igneousadditions",
+    "mod_name": "Igneous Additions",
+    "mod_dir": "/Igneous_Additions/",
+    "mod_version": "1.2-BETA-2",
+    "mc_version": "1.8",
+    "mod_authors": [
+        "Cruz Bishop"
+    ],
+    "url_website": "http://minecraft.curseforge.com/projects/igneous-additions",
+    "description": "Extra use for boring rock."
 }

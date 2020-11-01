@@ -1,0 +1,13 @@
+{
+    "mod_id": "bagginses",
+    "mod_name": "Bagginses",
+    "mod_filename": "Bagginses-2.1.1.jar",
+    "mc_version": "1.8.9",
+    "mod_authors": [
+        "LordDusk"
+    ],
+    "url_website": "",
+    "description": "Adds 2 Tiers of bags, and a void bag.",
+    "mod_version": "2.1.5b",
+    "mod_dir": "/Bagginses/"
+}

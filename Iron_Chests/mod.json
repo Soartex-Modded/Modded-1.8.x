@@ -1,9 +1,9 @@
 {
-  "mod_id": "IronChest",
-  "mod_name": "Iron Chest",
-  "mod_dir": "/Iron_Chests/",
-  "mod_version": "6.0.62.742",
-  "mc_version": "1.9",
-  "url_website": "http://www.minecraftforum.net/topic/981855-",
-  "description": "New chests with larger sizes, with in-place upgrade items.\nThe feature chest is the crystal chest, which is transparent - some inventory contents are visible without opening the chest"
+    "mod_id": "ironchest",
+    "mod_name": "Iron Chest",
+    "mod_dir": "/Iron_Chests/",
+    "mod_version": "6.0.62.742",
+    "mc_version": "1.9",
+    "url_website": "http://www.minecraftforum.net/topic/981855-",
+    "description": "New chests with larger sizes, with in-place upgrade items.\nThe feature chest is the crystal chest, which is transparent - some inventory contents are visible without opening the chest"
 }
