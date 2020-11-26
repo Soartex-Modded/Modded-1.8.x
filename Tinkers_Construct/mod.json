@@ -5,14 +5,12 @@
     "mc_version": "1.8.9",
     "mod_authors": [
         "mDiyo",
-        "fuj1n",
-        "ProgWML6",
-        "Sunstrike",
-        "Pillbox",
-        "boni"
+        "bonusboni",
+        "KnightMiner",
+        "Alexbegt"
     ],
     "url_website": "https://github.com/SlimeKnights/TinkersConstruct",
     "description": "Modify all the things, then do it again!",
-    "mod_version": "1.8.9-2.0.2",
+    "mod_version": "1.8.9-2.2.1",
     "mod_dir": "/Tinkers_Construct/"
 }
